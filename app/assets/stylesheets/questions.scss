@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.coach-answer {
+  background-color: rgb(255, 227, 176);
+  border-left: 5px solid gray
+}
+
+p {
+  padding-left: 10px;
+}
+
+.coach-question {
+  border-left: 5px solid gray
+}
+
+.person {
+  font-weight: bold
+}
+
+#submit-button {
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
+
+.form {
+  width: 150px;
+}
